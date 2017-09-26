@@ -1,6 +1,11 @@
 fontawesome-iconpicker for Yii2
 ===============================
-Font Awesome Icon Picker is a fully customizable plugin for Twitter Bootstrap, with a powerful base API, based on fontawesome-iconpicker
+Font Awesome Icon Picker is a fully customizable plugin for Twitter Bootstrap, with a powerful base API, based on [fontawesome-iconpicker](https://github.com/farbelous/fontawesome-iconpicker)
+
+
+You can use Font Awesome or another font icon set of your choice (icon list is totally customizable).
+
+[View demos](https://farbelous.github.io/fontawesome-iconpicker/)
 
 Installation
 ------------
