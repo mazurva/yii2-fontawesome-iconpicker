@@ -21,6 +21,8 @@ class IconPicker extends InputWidget
      */
     public $clientOptions = [];
 
+    public $options = ['class' => 'form-control'];
+
     public function run()
     {
         if ($this->hasModel()) {
