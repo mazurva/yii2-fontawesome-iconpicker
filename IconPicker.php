@@ -11,6 +11,7 @@ namespace mazurva\widgets\iconpicker;
 use yii\widgets\InputWidget;
 use yii\helpers\Html;
 use yii\helpers\Json;
+use mazurva\widgets\iconpicker\assets\IconPickerAsset;
 
 class IconPicker extends InputWidget
 {
