@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mazurva\\widgets\\iconpicker\\": ["", "assets/"]
+            "mazurva\\widgets\\iconpicker\\": ""
         }
     }
 }

@@ -6,7 +6,7 @@
  * Time: 12:55
  */
 
-namespace mazurva\widgets\iconpicker;
+namespace mazurva\widgets\iconpicker\assets;
 
 use yii\web\AssetBundle;
 
