@@ -18,6 +18,7 @@ class IconPickerAsset extends AssetBundle
         'css/fontawesome-iconpicker.min.css',
     ];
     public $js = [
+        'http://code.jquery.com/jquery-migrate-3.0.0.js',
         'js/fontawesome-iconpicker.min.js'
     ];
     public $depends = [
