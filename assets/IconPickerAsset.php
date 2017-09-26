@@ -12,7 +12,7 @@ use yii\web\AssetBundle;
 
 class IconPickerAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/farbelous/fontawesome-iconpicker/dist';
+    public $sourcePath = '@vendor/itsjavi/fontawesome-iconpicker/dist';
 
     public $css = [
         'css/fontawesome-iconpicker.min.css',
