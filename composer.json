@@ -1,0 +1,21 @@
+{
+    "name": "mazurva/yii2-fontawesome-iconpicker",
+    "description": "Font Awesome Icon Picker is a fully customizable plugin for Twitter Bootstrap, with a powerful base API, based on fontawesome-iconpicker",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," widget"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Vadim Mazur",
+            "email": "mazurva@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "mazurva\\widgets\\iconpicker\\": ""
+        }
+    }
+}
